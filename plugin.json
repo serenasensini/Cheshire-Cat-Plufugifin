@@ -1,10 +1,9 @@
 {
-    "name": "My plugin",
+    "name": "Plufugigin - Farfallino Alphabet",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "description": "Get your cyphered response in farfallino alphabet",
+    "author_name": "Serena Sensini",
+    "author_url": "https://theredcode.it",
+    "plugin_url": "https://github.com/serenasensini/Cheshire-Cat-Plufugifin",
+    "tags": "cat, farfallino, cypher",
 }
